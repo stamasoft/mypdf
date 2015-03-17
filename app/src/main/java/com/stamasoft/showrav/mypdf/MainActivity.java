@@ -33,7 +33,7 @@ public class MainActivity extends Activity{
         webView.loadUrl("file:///android_asset/pdfviewer/index.html");
     }
 
-    //	reload on resume
+    //	reload on  resume resume
     @Override
     protected void onResume() {
         super.onResume();
